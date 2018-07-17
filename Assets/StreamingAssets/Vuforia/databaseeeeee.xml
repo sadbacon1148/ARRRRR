@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="uu" size="5.000000 7.532957" />
+    <ImageTarget name="Scannable2" size="6.000000 7.762803" />
+    <ImageTarget name="ana" size="6.000000 8.089888" />
+    <ImageTarget name="Scannable" size="6.000000 7.762803" />
+    <ImageTarget name="Marker2" size="6.000000 7.760684" />
+    <ImageTarget name="Photos" size="6.000000 7.761399" />
+  </Tracking>
+</QCARConfig>
